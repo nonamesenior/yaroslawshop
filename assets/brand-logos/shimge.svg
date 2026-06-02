@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 84" role="img" aria-label="SHIMGE">
+  <text x="4" y="44" font-family="Arial, sans-serif" font-weight="800" font-size="42" fill="#19A89F" letter-spacing="-1">SHIMGE</text>
+  <circle cx="214" cy="14" r="6.5" fill="none" stroke="#19A89F" stroke-width="1.4"/>
+  <text x="214" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#19A89F">R</text>
+  <line x1="8" y1="64" x2="92" y2="64" stroke="#19A89F" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="222" y="70" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#19A89F">for better life</text>
+</svg>

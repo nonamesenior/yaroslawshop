@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Italtecnica">
+  <rect x="20" y="20" width="160" height="160" transform="rotate(45 100 100)" fill="#000000"/>
+  <rect x="30" y="30" width="140" height="140" transform="rotate(45 100 100)" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="100,34 138,72 62,72" fill="#D11A1A"/>
+  <g stroke="#ffffff" stroke-width="6" fill="none">
+    <path d="M70 86 L100 116 L130 86"/>
+    <path d="M62 100 L100 138 L138 100"/>
+    <path d="M54 114 L100 160 L146 114"/>
+  </g>
+  <line x1="60" y1="170" x2="170" y2="60" stroke="#D11A1A" stroke-width="7"/>
+  <text x="150" y="150" transform="rotate(-45 150 150)" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff">italtecnica</text>
+</svg>
